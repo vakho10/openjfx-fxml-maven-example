@@ -1,2 +1,2 @@
-# openjfx-fxml-maven-example
-Example Maven project building OpenJFX FXML project using JLink
+# OpenJFX FXML Maven Example
+Example Maven project building OpenJFX FXML project using JLink.
